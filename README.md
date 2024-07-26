@@ -1,3 +1,3 @@
 ## Leetcode Log
 
-Compiled notes of problems solved to-date
+Compiled notes of concepts reviewed + problems solved to-date
