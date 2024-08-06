@@ -20,7 +20,7 @@ Output: 6
 Explanation: The LCA of nodes 2 and 8 is 6.
 ```
 
-![Untitled](static/235.png)
+![example-binary-tree](static/235.png)
 
 ## Solutions
 

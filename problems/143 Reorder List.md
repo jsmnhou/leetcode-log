@@ -22,7 +22,7 @@ Input: head = [1,2,3,4]
 Output: [1,4,2,3]
 ```
 
-![Untitled](143%20Reorder%20List%20ee1cd01022a34b4cb28b40046beea9f9/Untitled.png)
+![example-reordered-LL](static/143.png)
 
 ## Solutions
 
