@@ -1,18 +1,9 @@
 # 153. Find Minimum in Rotated Sorted Array
 
-Date (of first attempt): 04/01/2024
-Difficulty: Medium
-Topics: Binary Search
-Quick Notes: Solution through trial and error (go through shit ton of cases).
-Question Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
-1D: Yes
-2D: Yes
-7D: Yes
-15D: Yes
-1M: No
-3M: No
-Days since first attempt: -126
-Last edited time: April 17, 2024 12:46 PM
+Date (of first attempt): 04/01/2024  
+Difficulty: Medium  
+Topics: Binary Search  
+Question Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/  
 
 ## Problem
 
@@ -44,10 +35,6 @@ Example 3:
 Input: nums = [11,13,15,17]
 Output: 11
 Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
-```
-
-```
-
 ```
 
 ## Solutions
