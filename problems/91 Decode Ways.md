@@ -1,18 +1,10 @@
 # 91. Decode Ways
 
-Date (of first attempt): 04/04/2024
-Difficulty: Medium
-Topics: 1-D Dynamic Progamming
-Quick Notes: Indexing is weird. F(i) = # ways to decode up to index i-1 in string. So think of dp[2] as “2nd char” in string, ex: “1234” → ‘2’.
-Question Link: https://leetcode.com/problems/decode-ways/description/
-1D: Yes
-2D: Yes
-7D: Yes
-15D: No
-1M: No
-3M: No
-Days since first attempt: -124
-Last edited time: April 11, 2024 12:52 PM
+Date (of first attempt): 04/04/2024  
+Difficulty: Medium  
+Topics: 1-D Dynamic Progamming  
+Quick Notes: Indexing is weird. F(i) = # ways to decode up to index i-1 in string. So think of dp[2] as “2nd char” in string, ex: “1234” → ‘2’.  
+Question Link: https://leetcode.com/problems/decode-ways/description/  
 
 ## Problem
 
@@ -50,10 +42,6 @@ Example 3:
 Input: s = "06"
 Output: 0
 Explanation: "06" cannot be mapped to "F" because of the leading zero ("6" is different from "06").
-```
-
-```
-
 ```
 
 ## Solutions
