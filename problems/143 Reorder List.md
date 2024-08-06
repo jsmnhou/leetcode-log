@@ -1,19 +1,10 @@
 # 143. Reorder List
 
-Date (of first attempt): 04/01/2024
-Difficulty: Medium
-Topics: Linked List
-Quick Notes: Slow/fast ptrs, Reverse LLs, Merge 2 LLs
-Question Link: https://leetcode.com/problems/reorder-list/description/
-1D: Yes
-2D: Yes
-7D: Yes
-15D: Yes
-1M: No
-3M: No
-Days since first attempt: -126
-Last edited time: April 17, 2024 12:49 PM
-Other tags: !!!
+Date (of first attempt): 04/01/2024  
+Difficulty: Medium  
+Topics: Linked List  
+Quick Notes: Slow/fast ptrs, Reverse LLs, Merge 2 LLs  
+Question Link: https://leetcode.com/problems/reorder-list/description/  
 
 ## Problem
 
@@ -29,10 +20,6 @@ You may not modify the values in the list's nodes. Only nodes themselves may be 
 Example:
 Input: head = [1,2,3,4]
 Output: [1,4,2,3]
-```
-
-```
-
 ```
 
 ![Untitled](143%20Reorder%20List%20ee1cd01022a34b4cb28b40046beea9f9/Untitled.png)
