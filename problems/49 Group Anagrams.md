@@ -1,18 +1,10 @@
 # 49. Group Anagrams
 
-Date (of first attempt): 04/04/2024
-Difficulty: Medium
-Topics: Arrays
-Quick Notes: Uses: defaultdict, sorted(s), list comprehension
-Question Link: https://leetcode.com/problems/group-anagrams/description/
-1D: Yes
-2D: Yes
-7D: Yes
-15D: No
-1M: No
-3M: No
-Days since first attempt: -124
-Last edited time: April 11, 2024 12:53 PM
+Date (of first attempt): 04/04/2024  
+Difficulty: Medium  
+Topics: Arrays  
+Quick Notes: Uses: defaultdict, sorted(s), list comprehension  
+Question Link: https://leetcode.com/problems/group-anagrams/description/  
 
 ## Problem
 
@@ -35,10 +27,6 @@ Example 3:
 
 Input: strs = ["a"]
 Output: [["a"]]
-```
-
-```
-
 ```
 
 ## Solutions
