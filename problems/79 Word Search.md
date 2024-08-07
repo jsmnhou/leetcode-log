@@ -1,19 +1,10 @@
 # 79. Word Search
 
-Date (of first attempt): 04/09/2024
-Difficulty: Medium
-Topics: Backtracking, DFS
-Quick Notes: Backtracking template. Use DFS for backtracking, don’t try to fw BFS.
-Question Link: https://leetcode.com/problems/word-search/description/
-1D: Yes
-2D: Yes
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -120
-Last edited time: April 11, 2024 3:33 PM
-Other tags: !!!
+Date (of first attempt): 04/09/2024  
+Difficulty: Medium  
+Topics: Backtracking, DFS  
+Quick Notes: Backtracking template. Use DFS for backtracking, don’t try to fw BFS.  
+Question Link: https://leetcode.com/problems/word-search/description/  
 
 ## Problem
 
@@ -30,10 +21,6 @@ Output: true
 ```
 
 ![Untitled](79%20Word%20Search%205a65441e01274aae8a9e324011c7f8a6/Untitled.png)
-
-```
-
-```
 
 ## Solutions
 
