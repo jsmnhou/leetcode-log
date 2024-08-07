@@ -20,7 +20,7 @@ Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "
 Output: true
 ```
 
-![Untitled](79%20Word%20Search%205a65441e01274aae8a9e324011c7f8a6/Untitled.png)
+![example-board](static/79.png)
 
 ## Solutions
 
