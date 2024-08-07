@@ -1,18 +1,10 @@
 # 435. Non-overlapping Intervals
 
-Date (of first attempt): 04/10/2024
-Difficulty: Medium
-Topics: Greedy, Intervals
-Quick Notes: W/ intervals, often try sorting by end time. We we need to choose one or the other, try greedy (see if choosing “a” Is always AT LEAST AS GOOD AS (≥) choosing “b”).
-Question Link: https://leetcode.com/problems/non-overlapping-intervals/description/
-1D: Yes
-2D: Yes
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -119
-Last edited time: April 11, 2024 12:20 PM
+Date (of first attempt): 04/10/2024  
+Difficulty: Medium  
+Topics: Greedy, Intervals  
+Quick Notes: W/ intervals, often try sorting by end time. If we need to choose one or the other, try greedy (see if choosing “a” Is always AT LEAST AS GOOD AS (≥) choosing “b”).  
+Question Link: https://leetcode.com/problems/non-overlapping-intervals/description/  
 
 ## Problem
 
@@ -36,10 +28,6 @@ Example 3:
 Input: intervals = [[1,2],[2,3]]
 Output: 0
 Explanation: You don't need to remove any of the intervals since they're already non-overlapping
-```
-
-```
-
 ```
 
 ## Solutions
