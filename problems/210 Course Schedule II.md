@@ -1,19 +1,10 @@
 # 210. Course Schedule II
 
-Date (of first attempt): 04/14/2024
-Difficulty: Medium
-Topics: Topological Sort
-Quick Notes: See code to generate a valid topological sort order.
-Question Link: https://leetcode.com/problems/course-schedule-ii/description/
-1D: Yes
-2D: No
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -117
-Last edited time: April 15, 2024 10:59 PM
-Other tags: !!!
+Date (of first attempt): 04/14/2024  
+Difficulty: Medium  
+Topics: Topological Sort  
+Quick Notes: See code to generate a valid topological sort order.  
+Question Link: https://leetcode.com/problems/course-schedule-ii/description/  
 
 ## Problem
 
@@ -40,10 +31,6 @@ Example 3:
 
 Input: numCourses = 1, prerequisites = []
 Output: [0]
-```
-
-```
-
 ```
 
 ## Solutions
