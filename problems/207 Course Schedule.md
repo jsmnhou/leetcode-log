@@ -1,18 +1,10 @@
 # 207. Course Schedule
 
-Date (of first attempt): 04/13/2024
-Difficulty: Medium
-Topics: DFS, Topological Sort
-Quick Notes: Topological sort: push in nodes w/ no incoming edges. Visit their children, push in child if no more incoming edges after removing parent. If numVisited < numNodes, cycle was detected (not all nodes traversed).
-Question Link: https://leetcode.com/problems/course-schedule/description/
-1D: Yes
-2D: No
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -117
-Last edited time: April 15, 2024 10:58 PM
+Date (of first attempt): 04/13/2024  
+Difficulty: Medium  
+Topics: DFS, Topological Sort  
+Quick Notes: Topological sort: push in nodes w/ no incoming edges. Visit their children, push in child if no more incoming edges after removing parent. If numVisited < numNodes, cycle was detected (not all nodes traversed).  
+Question Link: https://leetcode.com/problems/course-schedule/description/  
 
 ## Problem
 
@@ -36,10 +28,6 @@ Input: numCourses = 2, prerequisites = [[1,0],[0,1]]
 Output: false
 Explanation: There are a total of 2 courses to take. 
 To take course 1 you should have finished course 0, and to take course 0 you should also have finished course 1. So it is impossible.
-```
-
-```
-
 ```
 
 ## Solutions
