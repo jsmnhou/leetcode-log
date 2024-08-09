@@ -21,8 +21,7 @@ Input: n = 5, edges = [[0,1],[1,2],[3,4]]
 Output: 2
 ```
 
-![Untitled](323%20Number%20of%20Connected%20Components%20in%20an%20Undirecte%20b4af035eb8e243afb073762419dad9fb/Untitled.png)
-
+![example-graph](static/323.png)
 
 ## Solutions
 
