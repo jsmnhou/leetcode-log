@@ -1,18 +1,10 @@
 # 152. Maximum Product Subarray
 
-Date (of first attempt): 04/15/2024
-Difficulty: Medium
-Topics: 1-D Dynamic Progamming
-Quick Notes: DP with no array needed; annoying cases with negative numbers handled w/ updating “min_so_far” var. 
-Question Link: https://leetcode.com/problems/maximum-product-subarray/description/
-1D: Yes
-2D: No
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -116
-Last edited time: April 15, 2024 11:00 PM
+Date (of first attempt): 04/15/2024  
+Difficulty: Medium  
+Topics: 1-D Dynamic Progamming  
+Quick Notes: DP with no array needed; annoying cases with negative numbers handled w/ updating “min_so_far” var.  
+Question Link: https://leetcode.com/problems/maximum-product-subarray/description/  
 
 ## Problem
 
@@ -35,10 +27,6 @@ Example 2:
 Input: nums = [-2,0,-1]
 Output: 0
 Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
-```
-
-```
-
 ```
 
 ## Solutions
