@@ -1,18 +1,10 @@
 # 323. Number of Connected Components in an Undirected Graph
 
-Date (of first attempt): 04/11/2024
-Difficulty: Medium
-Topics: DFS, Union Find
-Quick Notes: Basic Union Find review.
-Question Link: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
-1D: Yes
-2D: Yes
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -119
-Last edited time: April 15, 2024 10:58 PM
+Date (of first attempt): 04/11/2024  
+Difficulty: Medium  
+Topics: DFS, Union Find  
+Quick Notes: Basic Union Find review.  
+Question Link: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/  
 
 ## Problem
 
@@ -31,9 +23,6 @@ Output: 2
 
 ![Untitled](323%20Number%20of%20Connected%20Components%20in%20an%20Undirecte%20b4af035eb8e243afb073762419dad9fb/Untitled.png)
 
-```
-
-```
 
 ## Solutions
 
