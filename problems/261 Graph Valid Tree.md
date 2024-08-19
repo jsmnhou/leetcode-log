@@ -23,7 +23,7 @@ Input: n = 5, edges = [[0,1],[0,2],[0,3],[1,4]]
 Output: true
 ```
 
-![Untitled](261%20Graph%20Valid%20Tree%20fb596d3670a24d60a45eebbd975ee64a/Untitled.png)
+![example-graph](static/261.png)
 
 
 ## Solutions
