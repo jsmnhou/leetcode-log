@@ -42,7 +42,7 @@ Explanation: There are 4 nodes in the graph.
 4th node (val = 4)'s neighbors are 1st node (val = 1) and 3rd node (val = 3).
 ```
 
-![Untitled](133%20Clone%20Graph%20206938b8750742718d51712b2030a7cf/Untitled.png)
+![example-graph](static/133.png)
 
 
 ## Solutions
