@@ -1,18 +1,10 @@
 # 133. Clone Graph
 
-Date (of first attempt): 04/17/2024
-Difficulty: Medium
-Topics: BFS, DFS
-Quick Notes: Using function itself as recursive function.
-Question Link: https://leetcode.com/problems/clone-graph/description/
-1D: Yes
-2D: No
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -123
-Last edited time: April 20, 2024 11:24 PM
+Date (of first attempt): 04/17/2024  
+Difficulty: Medium  
+Topics: BFS, DFS  
+Quick Notes: Using function itself as recursive function.  
+Question Link: https://leetcode.com/problems/clone-graph/description/  
 
 ## Problem
 
@@ -52,9 +44,6 @@ Explanation: There are 4 nodes in the graph.
 
 ![Untitled](133%20Clone%20Graph%20206938b8750742718d51712b2030a7cf/Untitled.png)
 
-```
-
-```
 
 ## Solutions
 
