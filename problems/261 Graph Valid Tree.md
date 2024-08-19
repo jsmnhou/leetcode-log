@@ -1,21 +1,12 @@
 # 261. Graph Valid Tree
 
-Date (of first attempt): 04/19/2024
-Difficulty: Medium
-Topics: DFS, Tree, Undirected Graph, Union Find
-Quick Notes: If G is fully connected AND has exactly N-1 edges, then G MUST be a tree. 
-< N-1 edges → not fully connected
-> N-1 edges → must contain a cycle
-If we know G has exactly N-1, we can use DSU to check for cycles (see if there’s a failed merge).
-1D: No
-2D: No
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -121
-Last edited time: April 18, 2024 9:29 PM
-Other tags: !!!
+Date (of first attempt): 04/19/2024  
+Difficulty: Medium  
+Topics: DFS, Tree, Undirected Graph, Union Find  
+Quick Notes: If G is fully connected AND has exactly N-1 edges, then G MUST be a tree.  
+< N-1 edges → not fully connected  
+\> N-1 edges → must contain a cycle  
+If we know G has exactly N-1, we can use DSU to check for cycles (see if there’s a failed merge).  
 
 ## Problem
 
@@ -34,9 +25,6 @@ Output: true
 
 ![Untitled](261%20Graph%20Valid%20Tree%20fb596d3670a24d60a45eebbd975ee64a/Untitled.png)
 
-```
-
-```
 
 ## Solutions
 
