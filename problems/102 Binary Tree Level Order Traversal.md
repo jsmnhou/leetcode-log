@@ -1,18 +1,10 @@
 # 102. Binary Tree Level Order Traversal
 
-Date (of first attempt): 08/06/2024
-Difficulty: Medium
-Topics: BFS, Tree
-Quick Notes: To record layers/levels, use current length of queue = # nodes in current layer.
-Question Link: https://leetcode.com/problems/binary-tree-level-order-traversal/description/
-1D: No
-2D: No
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -16
-Last edited time: August 6, 2024 3:50 PM
+Date (of first attempt): 08/06/2024  
+Difficulty: Medium  
+Topics: BFS, Tree  
+Quick Notes: To record layers/levels, use current length of queue = # nodes in current layer.  
+Question Link: https://leetcode.com/problems/binary-tree-level-order-traversal/description/  
 
 ## Problem
 
@@ -37,9 +29,6 @@ Output: []
 
 ![https://assets.leetcode.com/uploads/2021/02/19/tree1.jpg](https://assets.leetcode.com/uploads/2021/02/19/tree1.jpg)
 
-```
-
-```
 
 ## Solutions
 
