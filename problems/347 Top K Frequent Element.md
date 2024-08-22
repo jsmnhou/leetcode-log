@@ -1,18 +1,10 @@
 # 347. Top K Frequent Elements
 
-Date (of first attempt): 08/06/2024
-Difficulty: Medium
-Topics: Priority Queue
-Quick Notes: Finding k “largest” —> use minPQ
-Question Link: https://leetcode.com/problems/top-k-frequent-elements/description/
-1D: No
-2D: No
-7D: No
-15D: No
-1M: No
-3M: No
-Days since first attempt: -16
-Last edited time: August 6, 2024 3:49 PM
+Date (of first attempt): 08/06/2024  
+Difficulty: Medium  
+Topics: Priority Queue  
+Quick Notes: Finding k “largest” —> use minPQ  
+Question Link: https://leetcode.com/problems/top-k-frequent-elements/description/  
 
 ## Problem
 
@@ -31,9 +23,6 @@ Input: nums = [1], k = 1
 Output: [1]
 ```
 
-```
-
-```
 
 ## Solutions
 
